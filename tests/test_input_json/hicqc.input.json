@@ -1,0 +1,10 @@
+{
+	"hicfile": {
+			"class": "File",
+			"path": "../test_files/test.hic"
+	},
+	"chromsizes": {
+			"class": "File",
+			"path": "../test_files/test.chrom.sizes"
+	}
+}
